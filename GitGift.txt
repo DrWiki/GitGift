@@ -1,0 +1,6 @@
+git branch [name]
+git branch -a
+git checkout -b [name]
+git add .
+git commit -m "xxxxxxxxxxxxxxxx"
+git checkout [name]
