@@ -4,3 +4,4 @@ git checkout -b [name]
 git add .
 git commit -m "xxxxxxxxxxxxxxxx"
 git checkout [name]
+git log
